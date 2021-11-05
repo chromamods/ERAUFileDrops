@@ -1,0 +1,76 @@
+{
+  "gpus": {
+    "1": {
+      "gpu": "gtx1080ti",
+      "fans": 2,
+      "ram": "11GB GDDR5X",
+      "picture": "images/gtx1080ti.jpg"
+    },
+    "2": {
+      "gpu": "gtx970",
+      "fans": 2,
+      "ram": "4GB GDDR5",
+      "picture": "images/gtx970.jpg"
+    },
+    "3": {
+      "gpu": "gtx1660ti",
+      "fans": 2,
+      "ram": "6GB GDDR6",
+      "picture": "images/gtx1660ti.jpg"
+    },
+    "4": {
+      "gpu": "rtx2080",
+      "fans": 3,
+      "ram": "8GB GDDR6",
+      "picture": "images/rtx2080.png"
+    },
+    "5": {
+      "gpu": "gt640",
+      "fans": 1,
+      "ram": "2GB DDR3",
+      "picture": "images/gt640.jpg"
+    },
+    "6": {
+      "gpu": "gf256",
+      "fans": 1,
+      "ram": "8MB SGRAM",
+      "picture": "images/gf256.jpg"
+    },
+    "7": {
+      "gpu": "rx6900xt",
+      "fans": 3,
+      "ram": "16GB GDDR6",
+      "picture": "images/rx6900xt.jpg"
+    },
+    "8": {
+      "gpu": "rxvega64",
+      "fans": 3,
+      "ram": "8GB HBM2",
+      "picture": "images/rxvega64.png"
+    },
+    "9": {
+      "gpu": "rx580",
+      "fans": 2,
+      "ram": "8GB GDDR5",
+      "picture": "images/rx580.jpg"
+    },
+    "10": {
+      "gpu": "r9280x",
+      "fans": 2,
+      "ram": "3GB GDDR5",
+      "picture": "images/r9280x.png"
+    },
+    "11": {
+      "gpu": "wx7100",
+      "fans": 1,
+      "ram": "8GB GDDR5",
+      "picture": "images/wx7100.jpg"
+    },
+    "12": {
+      "gpu": "rx550",
+      "fans": 1,
+      "ram": "4GB GDDR5",
+      "picture": "images/rx550.jpg"
+    }
+  }
+}
